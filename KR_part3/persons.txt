@@ -1,0 +1,6 @@
+Alex 20
+Ann 19
+Mary 8
+Sergey 8
+Sara 35
+Salo 35
